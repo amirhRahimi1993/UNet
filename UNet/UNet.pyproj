@@ -24,6 +24,7 @@
     <Compile Include="dataset.py" />
     <Compile Include="model.py" />
     <Compile Include="UNet.py" />
+    <Compile Include="utils.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Screenshot 2022-12-08 153128.png" />
